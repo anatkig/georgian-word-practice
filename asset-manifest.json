@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/georgian-word-practice/static/css/main.ace5e09b.css",
+    "main.css": "/georgian-word-practice/static/css/main.704424bd.css",
     "main.js": "/georgian-word-practice/static/js/main.aeb829bf.js",
     "static/js/787.8c7fd444.chunk.js": "/georgian-word-practice/static/js/787.8c7fd444.chunk.js",
     "index.html": "/georgian-word-practice/index.html",
-    "main.ace5e09b.css.map": "/georgian-word-practice/static/css/main.ace5e09b.css.map",
+    "main.704424bd.css.map": "/georgian-word-practice/static/css/main.704424bd.css.map",
     "main.aeb829bf.js.map": "/georgian-word-practice/static/js/main.aeb829bf.js.map",
     "787.8c7fd444.chunk.js.map": "/georgian-word-practice/static/js/787.8c7fd444.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ace5e09b.css",
+    "static/css/main.704424bd.css",
     "static/js/main.aeb829bf.js"
   ]
 }
