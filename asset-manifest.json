@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/georgian-word-practice/static/css/main.7e7e0704.css",
-    "main.js": "/georgian-word-practice/static/js/main.4f2060b9.js",
+    "main.css": "/georgian-word-practice/static/css/main.87bac9d3.css",
+    "main.js": "/georgian-word-practice/static/js/main.aae577c1.js",
     "static/js/787.8c7fd444.chunk.js": "/georgian-word-practice/static/js/787.8c7fd444.chunk.js",
     "index.html": "/georgian-word-practice/index.html",
-    "main.7e7e0704.css.map": "/georgian-word-practice/static/css/main.7e7e0704.css.map",
-    "main.4f2060b9.js.map": "/georgian-word-practice/static/js/main.4f2060b9.js.map",
+    "main.87bac9d3.css.map": "/georgian-word-practice/static/css/main.87bac9d3.css.map",
+    "main.aae577c1.js.map": "/georgian-word-practice/static/js/main.aae577c1.js.map",
     "787.8c7fd444.chunk.js.map": "/georgian-word-practice/static/js/787.8c7fd444.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e7e0704.css",
-    "static/js/main.4f2060b9.js"
+    "static/css/main.87bac9d3.css",
+    "static/js/main.aae577c1.js"
   ]
 }
